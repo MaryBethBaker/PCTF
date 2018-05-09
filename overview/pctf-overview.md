@@ -32,4 +32,4 @@ It is important that we get this right as it will set the stage for how we deliv
 
 The goal of the trust framework is simple — Canadians should be able to access any service from any level of government through any platform without worrying about their security and privacy.
 
-More information can be found on [DIACC](https://diacc.ca) and via the [GCcollab](https://gccollab.ca) platform.
+More information can be found on Digital ID & Authentication Council of Canada [DIACC](https://diacc.ca) and via the [GCcollab](https://gccollab.ca) platform.
