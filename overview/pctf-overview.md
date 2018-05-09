@@ -8,9 +8,9 @@ The Pan-Canadian Trust Framework is how we will formalize the approval and accep
 A trusted digital identity is a digital representation of who you are, which you can use to access high-value government services, such as, social benefits, renewing a passport or filing taxes.
 
 A trusted digital identity is more than a username and password — you can use anywhere and it answers three key questions about you:
-# Are you the same person each time? (i.e., not an imposter). 
-# Are you a real person? (i.e., not a fictitious person or a bot). 
-# Have you given consent? (i.e., do you actually understand the terms and conditions, and have given informed consent).
+1. Are you the same person each time? (i.e., not an imposter). 
+2. Are you a real person? (i.e., not a fictitious person or a bot). 
+3. Have you given consent? (i.e., do you actually understand the terms and conditions, and have given informed consent).
 
 This trusted digital version of you needs to be shared across an ecosystem of providers and technologies you can trust.
 
